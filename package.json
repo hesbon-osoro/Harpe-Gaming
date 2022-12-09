@@ -1,0 +1,14 @@
+{
+  "name": "harpe-gaming",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "license": "MIT",
+  "author": "Hesbon Osoro <hesbonosoro1@gmail.com>",
+  "scripts": {
+    "format": "prettier --write ."
+  },
+  "devDependencies": {
+    "prettier": "^2.0.5"
+  }
+}
